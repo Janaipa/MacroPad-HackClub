@@ -9,6 +9,6 @@ This project is a custom macropad featuring a 3x4 keyboard, 1 rotary encoder and
 Electrical Design/  # KiCad PCB anb schematic files
 ```
 
-##📝License
+## 📝License
 This project is licensed under the **GNU General Public License v2.0**.  
 You can read the full text in the [`LICENSE`](LICENSE) file or at [gnu.org](https://www.gnu.org/licenses/gpl-2.0.html). 

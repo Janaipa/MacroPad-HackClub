@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "C:/Users/dimar/Documents/KiCad/libraries/OPL_Kicad_Library-master/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "OLED 0.91 inch")(type "KiCad")(uri "C:/Users/dimar/Documents/KiCad/libraries/OLED 0.91 inch")(options "")(descr ""))
+)

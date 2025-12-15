@@ -6,7 +6,7 @@ This project is a custom macropad featuring a 3x4 keyboard, 1 rotary encoder and
 ## 📂 Repository Structure
 ```
 3D Model/          # 3D models (Fusion 360)
-Electrical Design  # KiCad PCB anb schematic files
+Electrical Design/  # KiCad PCB anb schematic files
 ```
 
 ##📝License

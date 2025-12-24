@@ -10,8 +10,8 @@ Electrical Design/ # KiCad PCB anb schematic files
 Firmware/          # file .ino
 ```
 ## PCB
-<img width="772" height="850" alt="image" src="https://github.com/user-attachments/assets/f40e8d3f-c918-4947-8c31-099ca5165da8" />
-<img width="1069" height="547" alt="image" src="https://github.com/user-attachments/assets/73858920-64f9-4ec0-a69d-a8c8457c8f90" />
+<img width="386" height="425" alt="image" src="https://github.com/user-attachments/assets/f40e8d3f-c918-4947-8c31-099ca5165da8" />
+<img width="534" height="273" alt="image" src="https://github.com/user-attachments/assets/73858920-64f9-4ec0-a69d-a8c8457c8f90" />
 
 
 

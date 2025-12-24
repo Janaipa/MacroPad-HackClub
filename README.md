@@ -9,6 +9,11 @@ This project is a custom macropad featuring a 3x4 keyboard, 1 rotary encoder and
 Electrical Design/ # KiCad PCB anb schematic files
 Firmware/          # file .ino
 ```
+## PCB
+<img width="772" height="850" alt="image" src="https://github.com/user-attachments/assets/f40e8d3f-c918-4947-8c31-099ca5165da8" />
+<img width="1069" height="547" alt="image" src="https://github.com/user-attachments/assets/73858920-64f9-4ec0-a69d-a8c8457c8f90" />
+
+
 
 ## 📝License
 This project is licensed under the **GNU General Public License v2.0**.  
